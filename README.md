@@ -1,3 +1,8 @@
-# Exercice 4 : Application Memo
+#tp : tp final
 
-Code de départ de l'application Memo à utiliser pour l'exercice 4 du cours 582-4PA.
+remise du tp final
+
+aplication react avec filtre de tache, fonction de suppression, 
+
+
+par : Luna Gagnon Lavoie | mika cuvillier
